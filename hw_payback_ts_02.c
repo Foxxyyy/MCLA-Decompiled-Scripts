@@ -1,0 +1,237 @@
+void main()
+{
+   auto var2, var3, var4, var5, var6, var7, var8, var9, var10, var11, var12, var13, var14, var15, var16, var17, var18, var19, var20, var21, var22, var23, var24, var25, var26, var27, var28, var29, var30, var31, var32, var33, var34, var35, var36, var37, var38, var39, var40, var41, var42, var43, var44, var45, var46, var47, var48, var49, var50, var51, var52, var53, var54, var55, var56, var57, var58, var59, var60, var61, var62, var63, var64, var65, var66, var67, var68, var69, var70, var71, var72, var73, var74, var75, var76, var77, var78, var79, var80, var81, var82, var83, var84, var85, var86, var87, var88, var89, var90, var91, var92, var93, var94, var95, var96, var97, var98, var99, var100, var101, var102, var103, var104, var105, var106, var107, var108, var109, var110, var111, var112, var113, var114, var115, var116, var117, var118, var119, var120, var121, var122, var123, var124, var125, var126, var127, var128, var129, var130, var131, var132, var133, var134, var135, var136, var137, var138, var139, var140, var141, var142, var143, var144, var145, var146, var147, var148, var149, var150, var151, var152, var153, var154, var155, var156, var157, var158, var159, var160, var161, var162, var163, var164, var165, var166, var167, var168, var169, var170, var171, var172, var173, var174, var175, var176, var177, var178, var179, var180, var181, var182, var183, var184, var185, var186, var187, var188, var189, var190, var191, var192, var193, var194;
+
+   var2 = 16;
+   var2[0 * 3].v0 = -1065.41f;
+   var2[0 * 3].v1 = 9.81293f;
+   var2[0 * 3].v2 = -567.222f;
+   var2[1 * 3].v0 = -1060.91f;
+   var2[1 * 3].v1 = 9.81293f;
+   var2[1 * 3].v2 = -567.184f;
+   var2[2 * 3].v0 = -1060.84f;
+   var2[2 * 3].v1 = 9.81293f;
+   var2[2 * 3].v2 = -575.684f;
+   var2[3 * 3].v0 = -1065.34f;
+   var2[3 * 3].v1 = 9.81293f;
+   var2[3 * 3].v2 = -575.722f;
+   var2[4 * 3].v0 = -1060.76f;
+   var2[4 * 3].v1 = 9.81293f;
+   var2[4 * 3].v2 = -584.184f;
+   var2[5 * 3].v0 = -1065.26f;
+   var2[5 * 3].v1 = 9.81293f;
+   var2[5 * 3].v2 = -584.222f;
+   var2[6 * 3].v0 = -1060.69f;
+   var2[6 * 3].v1 = 9.81293f;
+   var2[6 * 3].v2 = -593.183f;
+   var2[7 * 3].v0 = -1065.19f;
+   var2[7 * 3].v1 = 9.81293f;
+   var2[7 * 3].v2 = -593.221f;
+   var2[8 * 3].v0 = -1060.62f;
+   var2[8 * 3].v1 = 9.81293f;
+   var2[8 * 3].v2 = -601.183f;
+   var2[9 * 3].v0 = -1065.12f;
+   var2[9 * 3].v1 = 9.81293f;
+   var2[9 * 3].v2 = -601.221f;
+   var2[10 * 3].v0 = -1060.55f;
+   var2[10 * 3].v1 = 9.81293f;
+   var2[10 * 3].v2 = -609.683f;
+   var2[11 * 3].v0 = -1065.05f;
+   var2[11 * 3].v1 = 9.81293f;
+   var2[11 * 3].v2 = -609.721f;
+   var2[12 * 3].v0 = -1060.48f;
+   var2[12 * 3].v1 = 9.81293f;
+   var2[12 * 3].v2 = -618.183f;
+   var2[13 * 3].v0 = -1064.98f;
+   var2[13 * 3].v1 = 9.81293f;
+   var2[13 * 3].v2 = -618.22f;
+   var2[14 * 3].v0 = -1060.41f;
+   var2[14 * 3].v1 = 9.81293f;
+   var2[14 * 3].v2 = -626.682f;
+   var2[15 * 3].v0 = -1064.91f;
+   var2[15 * 3].v1 = 9.81293f;
+   var2[15 * 3].v2 = -626.72f;
+   var51 = 16;
+   var51[0] = 179.518f;
+   var51[1] = 179.518f;
+   var51[2] = 179.518f;
+   var51[3] = 179.518f;
+   var51[4] = 179.518f;
+   var51[5] = 179.518f;
+   var51[6] = 179.518f;
+   var51[7] = 179.518f;
+   var51[8] = 179.518f;
+   var51[9] = 179.518f;
+   var51[10] = 179.518f;
+   var51[11] = 179.518f;
+   var51[12] = 179.518f;
+   var51[13] = 179.518f;
+   var51[14] = 179.518f;
+   var51[15] = 179.518f;
+   var68 = 8;
+   var68[0 * 3].v0 = -1145.67f;
+   var68[0 * 3].v1 = -0.356941f;
+   var68[0 * 3].v2 = -139.258f;
+   var68[1 * 3].v0 = -956.654f;
+   var68[1 * 3].v1 = 4.1543f;
+   var68[1 * 3].v2 = -239.053f;
+   var68[2 * 3].v0 = -825.669f;
+   var68[2 * 3].v1 = 3.45123f;
+   var68[2 * 3].v2 = -238.8f;
+   var68[3 * 3].v0 = -891.344f;
+   var68[3 * 3].v1 = 0.862671f;
+   var68[3 * 3].v2 = -135.363f;
+   var68[4 * 3].v0 = -1086.99f;
+   var68[4 * 3].v1 = -1.07233f;
+   var68[4 * 3].v2 = -33.4453f;
+   var68[5 * 3].v0 = -1275.57f;
+   var68[5 * 3].v1 = -0.588928f;
+   var68[5 * 3].v2 = 57.7384f;
+   var68[6 * 3].v0 = -1401.88f;
+   var68[6 * 3].v1 = -4.44702f;
+   var68[6 * 3].v2 = 6.94847f;
+   var68[7 * 3].v0 = -1335.04f;
+   var68[7 * 3].v1 = -4.45196f;
+   var68[7 * 3].v2 = -80.6221f;
+   var93 = 8;
+   var93[0] = 32.5f;
+   var93[1] = (float)27;
+   var93[2] = (float)28;
+   var93[3] = 26.5f;
+   var93[4] = 27.5f;
+   var93[5] = (float)26;
+   var93[6] = (float)26;
+   var93[7] = (float)31;
+   var102 = 8;
+   var102[0] = (float)20;
+   var102[1] = (float)20;
+   var102[2] = (float)20;
+   var102[3] = (float)20;
+   var102[4] = (float)20;
+   var102[5] = (float)20;
+   var102[6] = (float)20;
+   var102[7] = (float)20;
+   var111 = 8;
+   var111[0] = (float)100;
+   var111[1] = (float)100;
+   var111[2] = (float)100;
+   var111[3] = (float)100;
+   var111[4] = (float)100;
+   var111[5] = (float)100;
+   var111[6] = (float)100;
+   var111[7] = (float)100;
+   var120 = 8;
+   var120[0] = (float)0;
+   var120[1] = (float)0;
+   var120[2] = (float)0;
+   var120[3] = (float)0;
+   var120[4] = (float)0;
+   var120[5] = (float)0;
+   var120[6] = (float)0;
+   var120[7] = (float)0;
+   var129 = 8;
+   var129[0] = (float)0;
+   var129[1] = (float)0;
+   var129[2] = (float)0;
+   var129[3] = (float)0;
+   var129[4] = (float)0;
+   var129[5] = (float)0;
+   var129[6] = (float)0;
+   var129[7] = (float)0;
+   var138 = 8;
+   var138[0 * 3].v0 = (float)0;
+   var138[0 * 3].v1 = (float)0;
+   var138[0 * 3].v2 = (float)0;
+   var138[1 * 3].v0 = (float)0;
+   var138[1 * 3].v1 = (float)0;
+   var138[1 * 3].v2 = (float)0;
+   var138[2 * 3].v0 = (float)0;
+   var138[2 * 3].v1 = (float)0;
+   var138[2 * 3].v2 = (float)0;
+   var138[3 * 3].v0 = (float)0;
+   var138[3 * 3].v1 = (float)0;
+   var138[3 * 3].v2 = (float)0;
+   var138[4 * 3].v0 = (float)0;
+   var138[4 * 3].v1 = (float)0;
+   var138[4 * 3].v2 = (float)0;
+   var138[5 * 3].v0 = (float)0;
+   var138[5 * 3].v1 = (float)0;
+   var138[5 * 3].v2 = (float)0;
+   var138[6 * 3].v0 = (float)0;
+   var138[6 * 3].v1 = (float)0;
+   var138[6 * 3].v2 = (float)0;
+   var138[7 * 3].v0 = (float)0;
+   var138[7 * 3].v1 = (float)0;
+   var138[7 * 3].v2 = (float)0;
+   var163 = 8;
+   var163[0] = (float)0;
+   var163[1] = (float)0;
+   var163[2] = (float)0;
+   var163[3] = (float)0;
+   var163[4] = (float)0;
+   var163[5] = (float)0;
+   var163[6] = (float)0;
+   var163[7] = (float)0;
+   var172 = 8;
+   var172[0] = "Normal";
+   var172[1] = "Normal";
+   var172[2] = "Normal";
+   var172[3] = "Normal";
+   var172[4] = "Normal";
+   var172[5] = "Normal";
+   var172[6] = "Normal";
+   var172[7] = "Normal";
+   var181 = 8;
+   var181[0] = (float)-1;
+   var181[1] = (float)-1;
+   var181[2] = (float)-1;
+   var181[3] = (float)-1;
+   var181[4] = (float)-1;
+   var181[5] = (float)-1;
+   var181[6] = (float)-1;
+   var181[7] = (float)-1;
+   var190 = Race_GetCheckpointList(L[0].v3);
+   CheckpointList_Reset(var190);
+   var191 = 0;
+   var192 = null;
+   CheckpointList_ResizeList(var190, 8);
+   var191 = 0;
+   while (var191 < 8)
+   {
+       var192 = CheckpointList_GetCheckpoint(var190, var191);
+       Checkpoint_SetPosition(var192, &(var68[var191 * 3]));
+       Checkpoint_SetHeight(var192, var102[var191]);
+       Checkpoint_SetActivationHeight(var192, var111[var191]);
+       Checkpoint_SetActivationRadius(var192, var93[var191]);
+       Checkpoint_SetMaxSpeed(var192, var181[var191]);
+       if (StringCompare(var172[var191], "Line"))
+       {
+           Checkpoint_IsLineCheckpoint(var192, 1);
+           Checkpoint_SetPositionSecond(var192, &(var138[var191 * 3]));
+           Checkpoint_SetDrawPosLine(var192, var163[var191]);
+       }
+       Checkpoint_SetArrowLookatPosition(var192, var120[var191], var129[var191]);
+       var191 = var191 + 1;
+   }
+   var193 = 0;
+   var194 = Race_GetRaceGrid(L[0].v3, 0);
+   var193 = 0;
+   while (var193 < 16)
+   {
+       RaceGrid_SetPosition(var194, var193, &(var2[var193 * 3]), var51[var193]);
+       var193 = var193 + 1;
+   }
+   sub_87e(&L[0]);
+}
+
+void sub_87e(var0)
+{
+   auto var3, var4;
+
+   var3 = START_NEW_SCRIPT_WITH_ARGS("Game/Racetypes/PaybackLegCore", var0, 802, 1500);
+   while (!IsChildFinished(var3))
+   {
+       WAITUNWARPED(100);
+   }
+}
+

@@ -1,0 +1,221 @@
+void main()
+{
+   auto var2, var3, var4, var5, var6, var7, var8, var9, var10, var11, var12, var13, var14, var15, var16, var17, var18, var19, var20, var21, var22, var23, var24, var25, var26, var27, var28, var29, var30, var31, var32, var33, var34, var35, var36, var37, var38, var39, var40, var41, var42, var43, var44, var45, var46, var47, var48, var49, var50, var51, var52, var53, var54, var55, var56, var57, var58, var59, var60, var61, var62, var63, var64, var65, var66, var67, var68, var69, var70, var71, var72, var73, var74, var75, var76, var77, var78, var79, var80, var81, var82, var83, var84, var85, var86, var87, var88, var89, var90, var91, var92, var93, var94, var95, var96, var97, var98, var99, var100, var101, var102, var103, var104, var105, var106, var107, var108, var109, var110, var111, var112, var113, var114, var115, var116, var117, var118, var119, var120, var121, var122, var123, var124, var125, var126, var127, var128, var129, var130, var131, var132, var133, var134, var135, var136, var137, var138, var139, var140, var141, var142, var143, var144, var145, var146, var147, var148, var149, var150, var151, var152, var153, var154, var155, var156, var157, var158, var159, var160, var161, var162, var163, var164, var165, var166, var167, var168, var169, var170, var171, var172, var173, var174, var175, var176, var177, var178, var179, var180, var181, var182, var183, var184, var185, var186, var187, var188, var189, var190, var191, var192, var193, var194, var195, var196, var197, var198, var199, var200, var201, var202, var203, var204, var205, var206, var207, var208, var209, var210, var211, var212, var213, var214, var215, var216, var217, var218, var219, var220, var221, var222, var223, var224, var225, var226, var227, var228, var229, var230, var231, var232, var233, var234, var235, var236, var237, var238, var239, var240, var241, var242, var243, var244, var245, var246, var247, var248, var249, var250, var251, var252, var253, var254, var255, var256, var257, var258, var259, var260, var261, var262, var263, var264, var265, var266, var267, var268, var269, var270, var271, var272, var273, var274, var275, var276, var277, var278, var279, var280, var281, var282, var283, var284, var285, var286, var287, var288, var289, var290, var291, var292, var293, var294, var295, var296, var297, var298, var299, var300, var301, var302, var303, var304, var305, var306, var307, var308, var309, var310, var311, var312, var313, var314, var315, var316, var317, var318, var319, var320, var321, var322, var323, var324, var325, var326, var327, var328, var329, var330, var331, var332, var333, var334, var335, var336, var337, var338, var339, var340, var341, var342, var343, var344, var345, var346, var347, var348, var349, var350, var351, var352, var353;
+
+   var2 = "game/cinescripts/source/core_rolling_prototype";
+   var3 = 10;
+   var14.v5 = 20;
+   var14.v5.v127 = 10;
+   var14.v5.v127.v179 = 20;
+   var14.v1 = "cutscene/story/cut_story_race_gh_06";
+   var14.v2 = "CUT_STORY_RACE_GH_06";
+   CineScript_SetSceneName("story/cut_story_race_gh_06");
+   CineScript_RequestPreraceTauntScenarioAudio("story/cut_story_race_gh_06");
+   CineScript_UseRacerNativeCharacter(0);
+   CineScript_UseRacerNativeCharacter(1);
+   CineScript_Characters_AssignNameToSlot("drv_mp_01_set", 0);
+   var14.v5[0 * 6].v0 = CineScript_Characters_ReadSlotPath(0);
+   var14.v5[0 * 6].v1 = CineScript_Characters_ReadSlotName(0);
+   var14.v5[0 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/player_drv04_name_drv_mp_01_set";
+   var14.v5[0 * 6].v3 = "player_drv04_name_drv_mp_01_set";
+   var14.v5[0 * 6].v4 = "player_drv04_name_drv_mp_01_set";
+   var14.v5[0 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("drv_mb_04_set", 1);
+   var14.v5[1 * 6].v0 = CineScript_Characters_ReadSlotPath(1);
+   var14.v5[1 * 6].v1 = CineScript_Characters_ReadSlotName(1);
+   var14.v5[1 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/booke_drv01_name_drv_mb_04_set";
+   var14.v5[1 * 6].v3 = "booke_drv01_name_drv_mb_04_set";
+   var14.v5[1 * 6].v4 = "booke_drv01_name_drv_mb_04_set";
+   var14.v5[1 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("drv_mc_003_set", 2);
+   var14.v5[2 * 6].v0 = CineScript_Characters_ReadSlotPath(2);
+   var14.v5[2 * 6].v1 = CineScript_Characters_ReadSlotName(2);
+   var14.v5[2 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/nikolai_drv02_name_drv_mc_003_set";
+   var14.v5[2 * 6].v3 = "nikolai_drv02_name_drv_mc_003_set";
+   var14.v5[2 * 6].v4 = "nikolai_drv02_name_drv_mc_003_set";
+   var14.v5[2 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("drv_mb_008_set", 3);
+   var14.v5[3 * 6].v0 = CineScript_Characters_ReadSlotPath(3);
+   var14.v5[3 * 6].v1 = CineScript_Characters_ReadSlotName(3);
+   var14.v5[3 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/trevor_drv03_name_drv_mb_008_set";
+   var14.v5[3 * 6].v3 = "trevor_drv03_name_drv_mb_008_set";
+   var14.v5[3 * 6].v4 = "trevor_drv03_name_drv_mb_008_set";
+   var14.v5[3 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_ma_004_set", 4);
+   var14.v5[4 * 6].v0 = CineScript_Characters_ReadSlotPath(4);
+   var14.v5[4 * 6].v1 = CineScript_Characters_ReadSlotName(4);
+   var14.v5[4 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/pedsit1_ped00_name_ped_ma_004_set";
+   var14.v5[4 * 6].v3 = "pedsit1_ped00_name_ped_ma_004_set";
+   var14.v5[4 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_mh_002_set", 5);
+   var14.v5[5 * 6].v0 = CineScript_Characters_ReadSlotPath(5);
+   var14.v5[5 * 6].v1 = CineScript_Characters_ReadSlotName(5);
+   var14.v5[5 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/pedsit2_ped01_name_ped_mh_002_set";
+   var14.v5[5 * 6].v3 = "pedsit2_ped01_name_ped_mh_002_set";
+   var14.v5[5 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_fh_003_set", 6);
+   var14.v5[6 * 6].v0 = CineScript_Characters_ReadSlotPath(6);
+   var14.v5[6 * 6].v1 = CineScript_Characters_ReadSlotName(6);
+   var14.v5[6 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/pedsit3_ped02_name_ped_fh_003_set";
+   var14.v5[6 * 6].v3 = "pedsit3_ped02_name_ped_fh_003_set";
+   var14.v5[6 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_fh_004_set", 7);
+   var14.v5[7 * 6].v0 = CineScript_Characters_ReadSlotPath(7);
+   var14.v5[7 * 6].v1 = CineScript_Characters_ReadSlotName(7);
+   var14.v5[7 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/pedsit4_ped03_name_ped_fh_004_set";
+   var14.v5[7 * 6].v3 = "pedsit4_ped03_name_ped_fh_004_set";
+   var14.v5[7 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_mb_001_set", 8);
+   var14.v5[8 * 6].v0 = CineScript_Characters_ReadSlotPath(8);
+   var14.v5[8 * 6].v1 = CineScript_Characters_ReadSlotName(8);
+   var14.v5[8 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/pedwalk_ped04_name_ped_mb_001_set";
+   var14.v5[8 * 6].v3 = "pedwalk_ped04_name_ped_mb_001_set";
+   var14.v5[8 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("ped_mc_008_set", 9);
+   var14.v5[9 * 6].v0 = CineScript_Characters_ReadSlotPath(9);
+   var14.v5[9 * 6].v1 = CineScript_Characters_ReadSlotName(9);
+   var14.v5[9 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/benchsit_ped05_name_ped_mc_008_set";
+   var14.v5[9 * 6].v3 = "benchsit_ped05_name_ped_mc_008_set";
+   var14.v5[9 * 6].v5 = -1;
+   CineScript_Characters_AssignNameToSlot("prp_moneybag_001_set", 10);
+   var14.v5[10 * 6].v0 = CineScript_Characters_ReadSlotPath(10);
+   var14.v5[10 * 6].v1 = CineScript_Characters_ReadSlotName(10);
+   var14.v5[10 * 6].v2 = "cutscene/story/cut_story_race_gh_06/Entity/bag_prp00_name_prp_moneybag_001_set";
+   var14.v5[10 * 6].v3 = "bag_prp00_name_prp_moneybag_001_set";
+   var14.v5[10 * 6].v5 = -1;
+   var14.v4 = 11;
+   var351 = Player_FindObject(0);
+   var344 = Player_GetRacer(var351);
+   if (var344 != null)
+   {
+       var350 = var350 + 1;
+       var14.v127[0 * 5].v1 = var344;
+       var14.v127[0 * 5].v0 = "mover_drv00_car";
+       var14.v127[0 * 5].v2 = 1;
+       var14.v127[0 * 5].v4 = "mover_drv00_car";
+       var14.v127[0 * 5].v3 = "cutscene/story/cut_story_race_gh_06/Entity/mover_drv00_car";
+       var3[0] = Racer_GetStreamLockState(var344);
+       Racer_SetStreamingLockedIn(var344);
+   }
+   var344 = Racer_FindFromUID(CineScript_Cars_ReadSlotId(1));
+   if (var344 != null)
+   {
+       var350 = var350 + 1;
+       var14.v127[1 * 5].v1 = var344;
+       var14.v127[1 * 5].v0 = "mover_henry_car";
+       var14.v127[1 * 5].v2 = 1;
+       var14.v127[1 * 5].v4 = "mover_henry_car";
+       var14.v127[1 * 5].v3 = "cutscene/story/cut_story_race_gh_06/Entity/mover_henry_car";
+       var3[1] = Racer_GetStreamLockState(var344);
+       Racer_SetStreamingLockedIn(var344);
+   }
+   var14.v126 = 2;
+   var14.v179[0 * 7].v0 = "engine_off";
+   var14.v179[0 * 7].v1 = 2;
+   var14.v179[0 * 7].v2 = "";
+   var14.v179[0 * 7].v3 = 0;
+   var14.v179[0 * 7].v4 = -7.066667f;
+   var14.v179[0 * 7].v5 = 0.0f;
+   var14.v179[0 * 7].v6 = 0.0f;
+   var14.v179[1 * 7].v0 = "headlights_off";
+   var14.v179[1 * 7].v1 = 2;
+   var14.v179[1 * 7].v2 = "";
+   var14.v179[1 * 7].v3 = 0;
+   var14.v179[1 * 7].v4 = -7.066667f;
+   var14.v179[1 * 7].v5 = 0.0f;
+   var14.v179[1 * 7].v6 = 0.0f;
+   var14.v179[2 * 7].v0 = "dof_near_distance";
+   var14.v179[2 * 7].v1 = 0;
+   var14.v179[2 * 7].v2 = "";
+   var14.v179[2 * 7].v3 = -1;
+   var14.v179[2 * 7].v4 = 0.0f;
+   var14.v179[2 * 7].v5 = 67.26667f;
+   var14.v179[2 * 7].v6 = 100.0f;
+   var14.v179[3 * 7].v0 = "dof_far_distance";
+   var14.v179[3 * 7].v1 = 0;
+   var14.v179[3 * 7].v2 = "";
+   var14.v179[3 * 7].v3 = -1;
+   var14.v179[3 * 7].v4 = 0.0f;
+   var14.v179[3 * 7].v5 = 67.26667f;
+   var14.v179[3 * 7].v6 = 3000.0f;
+   var14.v179[4 * 7].v0 = "racer_enablemusic";
+   var14.v179[4 * 7].v1 = 2;
+   var14.v179[4 * 7].v2 = "";
+   var14.v179[4 * 7].v3 = 1;
+   var14.v179[4 * 7].v4 = 57.63334f;
+   var14.v179[4 * 7].v5 = 0.0f;
+   var14.v179[4 * 7].v6 = 0.0f;
+   var14.v179[5 * 7].v0 = "bookmark";
+   var14.v179[5 * 7].v1 = 0;
+   var14.v179[5 * 7].v2 = "";
+   var14.v179[5 * 7].v3 = -1;
+   var14.v179[5 * 7].v4 = 57.63334f;
+   var14.v179[5 * 7].v5 = 0.0f;
+   var14.v179[5 * 7].v6 = 0.0f;
+   var14.v179[6 * 7].v0 = "headlights_on";
+   var14.v179[6 * 7].v1 = 2;
+   var14.v179[6 * 7].v2 = "";
+   var14.v179[6 * 7].v3 = 0;
+   var14.v179[6 * 7].v4 = 57.63334f;
+   var14.v179[6 * 7].v5 = 0.0f;
+   var14.v179[6 * 7].v6 = 0.0f;
+   var14.v179[7 * 7].v0 = "gesture_listen_right";
+   var14.v179[7 * 7].v1 = 2;
+   var14.v179[7 * 7].v2 = "";
+   var14.v179[7 * 7].v3 = 1;
+   var14.v179[7 * 7].v4 = 59.9f;
+   var14.v179[7 * 7].v5 = 0.0f;
+   var14.v179[7 * 7].v6 = 0.0f;
+   var14.v179[8 * 7].v0 = "gesture_neutral";
+   var14.v179[8 * 7].v1 = 2;
+   var14.v179[8 * 7].v2 = "";
+   var14.v179[8 * 7].v3 = 0;
+   var14.v179[8 * 7].v4 = 62.66667f;
+   var14.v179[8 * 7].v5 = 0.0f;
+   var14.v179[8 * 7].v6 = 0.0f;
+   var14.v179[9 * 7].v0 = "musicplay";
+   var14.v179[9 * 7].v1 = 0;
+   var14.v179[9 * 7].v2 = "";
+   var14.v179[9 * 7].v3 = -1;
+   var14.v179[9 * 7].v4 = 63.1f;
+   var14.v179[9 * 7].v5 = 0.0f;
+   var14.v179[9 * 7].v6 = 0.0f;
+   var14.v179[10 * 7].v0 = "cut_to_game";
+   var14.v179[10 * 7].v1 = 0;
+   var14.v179[10 * 7].v2 = "";
+   var14.v179[10 * 7].v3 = -1;
+   var14.v179[10 * 7].v4 = 64.16667f;
+   var14.v179[10 * 7].v5 = 0.0f;
+   var14.v179[10 * 7].v6 = 0.0f;
+   var14.v178 = 11;
+   if (var14.v126 == var350)
+   {
+       var352 = START_NEW_SCRIPT_WITH_ARGS(var2, &var14, 324, 0);
+       while (!IsChildFinished(var352))
+       {
+           WAIT(10);
+       }
+       var353 = 0;
+       while (var353 < var14.v126)
+       {
+           Racer_SetStreamLockState(var14.v127[var353 * 5].v1, var3[var353]);
+           var353 = var353 + 1;
+       }
+   }
+   else
+   {
+       PRINTSTRING("/\\/\\/\\/ SKIPPING CUTSCENE: insufficient number of racers slotted for cutscene--expecting ");
+       PRINTINT(var14.v126);
+       PRINTSTRING(" racers.\n");
+       CineScript_SKIPPING_CUTSCENE();
+   }
+   sub_12d9(L[0]);
+}
+
+void sub_12d9(var0)
+{
+   auto var3;
+
+   var0.v0 = 3;
+}
+
